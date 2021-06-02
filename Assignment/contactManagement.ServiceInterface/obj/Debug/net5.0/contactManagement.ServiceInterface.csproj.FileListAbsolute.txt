@@ -1,0 +1,15 @@
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.ServiceInterface\obj\Debug\net5.0\contactManagement.ServiceInterface.csprojAssemblyReference.cache
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.ServiceInterface\obj\Debug\net5.0\contactManagement.ServiceInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.ServiceInterface\obj\Debug\net5.0\contactManagement.ServiceInterface.AssemblyInfoInputs.cache
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.ServiceInterface\obj\Debug\net5.0\contactManagement.ServiceInterface.AssemblyInfo.cs
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.ServiceInterface\obj\Debug\net5.0\contactManagement.ServiceInterface.csproj.CoreCompileInputs.cache
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.ServiceInterface\bin\Debug\net5.0\contactManagement.ServiceInterface.deps.json
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.ServiceInterface\bin\Debug\net5.0\contactManagement.ServiceInterface.dll
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.ServiceInterface\bin\Debug\net5.0\ref\contactManagement.ServiceInterface.dll
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.ServiceInterface\bin\Debug\net5.0\contactManagement.ServiceInterface.pdb
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.ServiceInterface\bin\Debug\net5.0\ContactManagement.DataAccess.dll
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.ServiceInterface\bin\Debug\net5.0\ContactManagement.DataAccess.pdb
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.ServiceInterface\obj\Debug\net5.0\contactManagement.ServiceInterface.csproj.CopyComplete
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.ServiceInterface\obj\Debug\net5.0\contactManagement.ServiceInterface.dll
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.ServiceInterface\obj\Debug\net5.0\ref\contactManagement.ServiceInterface.dll
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.ServiceInterface\obj\Debug\net5.0\contactManagement.ServiceInterface.pdb

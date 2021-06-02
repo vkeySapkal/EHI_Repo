@@ -1,0 +1,52 @@
+﻿@model contactManagement.Model.Contact
+
+@{
+    ViewData["Title"] = "Create new Contact";
+}
+<br />
+<h3> Add New Contact</h3>
+<br />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" asp-controller="Controller" method="post">
+
+            <div class="form-group">
+                @Html.Label("First Name")
+                <input asp-for="FirstName" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                @Html.Label("Last Name")
+                <input asp-for="LastName" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                @Html.Label("Email Address")
+                <input asp-for="EmailID" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                @Html.Label("Contact Number")
+                <input asp-for="Phone" class="form-control" />
+            </div>
+
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Status" /> @Html.DisplayNameFor(model => model.Status)
+                </label>
+            </div>
+
+            <br />
+
+            <div class="form-group">
+                <input type="submit" value="Create" action="Create" controller="Contact" class="btn btn-primary" />
+            </div>
+            <br />
+            <div>
+                <a asp-action="Index" class="btn btn-primary">Back to List</a>
+            </div>
+
+        </form>
+    </div>
+</div>

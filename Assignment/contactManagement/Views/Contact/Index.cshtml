@@ -1,0 +1,63 @@
+﻿@model IEnumerable<contactManagement.Model.Contact>
+
+@{
+    ViewBag.Title = "Contact List ";
+}
+
+<br />
+<h3> List of Contacts</h3>
+<br />
+
+<p>
+    <a asp-action="Create" asp-controller="Contact" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.Label("First Name")
+            </th>
+            <th>
+                @Html.Label("Last Name")
+            </th>
+            <th>
+                @Html.Label("Email")
+            </th>
+            <th>
+                @Html.Label("Phone")
+            </th>
+            <th>
+                @Html.Label("Status")
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmailID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Phone)
+                </td>
+                <td>
+                    @(item.Status ? "Active" : "InActive")
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", "Contact", new { id = item.Id }, new { @class = "btn btn-info" })
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "btn btn-info" })
+                    @Html.ActionLink("Delete", "DeleteContact","Contact", new { id = item.Id }, new { @class = "btn btn-danger" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

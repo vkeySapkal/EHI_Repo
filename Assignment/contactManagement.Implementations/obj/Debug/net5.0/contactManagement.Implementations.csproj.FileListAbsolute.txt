@@ -1,0 +1,17 @@
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.Implementations\obj\Debug\net5.0\contactManagement.Implementations.GeneratedMSBuildEditorConfig.editorconfig
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.Implementations\obj\Debug\net5.0\contactManagement.Implementations.AssemblyInfoInputs.cache
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.Implementations\obj\Debug\net5.0\contactManagement.Implementations.AssemblyInfo.cs
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.Implementations\obj\Debug\net5.0\contactManagement.Implementations.csproj.CoreCompileInputs.cache
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.Implementations\bin\Debug\net5.0\contactManagement.Implementations.deps.json
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.Implementations\bin\Debug\net5.0\contactManagement.Implementations.dll
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.Implementations\bin\Debug\net5.0\ref\contactManagement.Implementations.dll
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.Implementations\bin\Debug\net5.0\contactManagement.Implementations.pdb
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.Implementations\bin\Debug\net5.0\ContactManagement.DataAccess.dll
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.Implementations\bin\Debug\net5.0\contactManagement.ServiceInterface.dll
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.Implementations\bin\Debug\net5.0\contactManagement.ServiceInterface.pdb
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.Implementations\bin\Debug\net5.0\ContactManagement.DataAccess.pdb
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.Implementations\obj\Debug\net5.0\contactManagement.Implementations.csprojAssemblyReference.cache
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.Implementations\obj\Debug\net5.0\contactManagement.Implementations.csproj.CopyComplete
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.Implementations\obj\Debug\net5.0\contactManagement.Implementations.dll
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.Implementations\obj\Debug\net5.0\ref\contactManagement.Implementations.dll
+C:\VikrantSapkal\New folder\EHI_Task\contactManagement.Implementations\obj\Debug\net5.0\contactManagement.Implementations.pdb
